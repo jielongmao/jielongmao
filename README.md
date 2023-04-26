@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
 </p>
 
 
